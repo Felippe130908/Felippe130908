@@ -41,14 +41,6 @@ Busco meu primeiro estágio em tecnologia para transformar minha dedicação aca
 
 ---
 
-<!-- ESTATÍSTICAS (Altere "Felippe130908" pelo seu usuário exato se necessário) -->
-## 📊 Minhas Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Felippe130908&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
 
 <!-- CONTATOS -->
 ## 📫 Como me encontrar
