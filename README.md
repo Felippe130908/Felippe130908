@@ -45,8 +45,8 @@ Busco meu primeiro estágio em tecnologia para transformar minha dedicação aca
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Felippe130908&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felippe130908&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Felippe130908&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felippe130908&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Linguagens Mais Usadas" height="150"/>
 </div>
 
 ---
